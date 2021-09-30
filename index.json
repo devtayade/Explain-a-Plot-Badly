@@ -115,12 +115,16 @@
     "movie_name":"Gulaal",
         "plot":"The film is set in present-day Rajasthan, a state in northwestern India. The plot is provided by student politics of a university and a fictitious secessionist movement consisting of former Rajput leaders who have become present-day elite"
   },
-{
+ {
         "id": 25,
         "movie_name": "The attack of 26/11",
         "plot": "The real story of ten terrorists, who sail to Mumbai and wage war on the populace for the next 72 hours."
-        
-        
-    },
+  },
 
+
+{
+        "id":23,
+        "movie_name":"The Shawshank Redemption",
+        "plot":"It tells the story of banker Andy Dufresne (Tim Robbins), who is sentenced to life in Shawshank State Penitentiary for the murders of his wife and her lover"
+    }
 ]
