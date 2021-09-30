@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "movie_name": "Harry Potter",
+        "plot": "Abused orphan drops out of school to kill a man with no nose. Starts a war"
+        
+        
+    },
+    {
+        "id":2,
+        "movie_name":"Twilight",
+        "plot":"A love triangle between an eighteen year old girl, a hundred year old guy and a dog"
+    },
+    {
+        "id":3,
+        "movie_name":"The Maze",
+        "plot":"Perfectly pleasant society turns to chaos by the intoduction of a female"
+    },
+    {
+        "id":4,
+        "movie_name":"The Matrix",
+        "plot":"Depressed office worker joins a cult and destabilizes the government"
+    },
+    {
+        "id":5,
+        "movie_name":"Frozen",
+        "plot":"After the death of lead actress, a young socialite causes millions in property damage"
+    },
+    {
+        "id":6,
+        "movie_name":"Star Wars - The Force Awakens",
+        "plot":"Emo teen can't live up to grandfathers legacy. Takes it out on dad"
+    },
+    {
+        "id":7,
+        "movie_name":"James Bond",
+        "plot":"An Alcoholic orphan and his boss burn down his family home"
+    },
+    {
+        "id":8,
+        "movie_name":"Avatar",
+        "plot":"Cultural appropriation in space"
+    },
+    {
+        "id":9,
+        "movie_name":"Taken",
+        "plot":"A dad has to go pick up his daughter"
+    },
+    {
+        "id":10,
+        "movie_name":"Spiderman",
+        "plot":"A Young man forcibly binds other men and photographs them for money"
+    },
+    {
+        "id":11,
+        "movie_name":"Mean Girls",
+        "plot":"She started wearing less and going out more"
+    },
+    {
+        "id":12,
+        "movie_name":"Aladdin",
+        "plot":"A beautiful princess gets catfished"
+    },
+    {
+        "id":13,
+        "movie_name":"The Notebook",
+        "plot":"Man builds house, bangs average girl till ex comes back before her alzheimer's kicks in"
+    },
+    {
+        "id":14,
+        "movie_name":"The Matrix",
+        "plot":"Depressed office worker joins a cult and destabilizes the government"
+    }
+]
