@@ -120,8 +120,6 @@
         "movie_name": "The attack of 26/11",
         "plot": "The real story of ten terrorists, who sail to Mumbai and wage war on the populace for the next 72 hours."
   },
-
-
 {
         "id":23,
         "movie_name":"The Shawshank Redemption",
@@ -131,7 +129,10 @@
         "id": 10,
         "movie_name": "Gravity",
         "plot": "Gravity is a 2013 science fiction thriller film directed by Alfonso Cuarón, who also co-wrote, co-edited, and produced the film. It stars Sandra Bullock and George Clooney as American astronauts who are stranded in space after the mid-orbit destruction of their Space Shuttle, and attempt to return to Earth."
-        
-        
+    },
+{
+        "id": 11,
+        "movie_name": "Radhe",
+        "plot": "Salman bhai to save his GF, the city and most importantly, his self-respect."
     }
 ]
