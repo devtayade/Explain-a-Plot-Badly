@@ -142,15 +142,19 @@
     },
 {
         "id": 27,
+        "movie_name": "Zindagi Na Milegi Dobara",
+        "plot": "Three best friends together breaks a marriage of one of them at the last day of trip."
+},{
+        "id": 28,
         "movie_name": "Up",
         "plot": "An elderly man abducts a young overweight Asian boy to replace his dead wife."
 },{
-        "id": 28,
+        "id": 29,
         "movie_name": "Chiku",
         "plot": "Shows the poverty of India ,also directed very badly "
     },
 {
-        "id": 29,
+        "id": 30,
         "movie_name": "Unbreakable",
         "plot": "David is indeed a superhero, whose powers include extreme strength and the ability to see the crimes people have permitted just by touching them. But that isn't the twist. The twist comes right at the end of the film when David shakes Elijah's hand — and realises he was the one behind the train crash all along."
 }
