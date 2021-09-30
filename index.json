@@ -116,27 +116,31 @@
         "plot":"The film is set in present-day Rajasthan, a state in northwestern India. The plot is provided by student politics of a university and a fictitious secessionist movement consisting of former Rajput leaders who have become present-day elite"
   },
  {
-        "id": 25,
+        "id": 23,
         "movie_name": "The attack of 26/11",
         "plot": "The real story of ten terrorists, who sail to Mumbai and wage war on the populace for the next 72 hours."
   },
 {
-        "id":23,
+        "id":24,
         "movie_name":"The Shawshank Redemption",
         "plot":"It tells the story of banker Andy Dufresne (Tim Robbins), who is sentenced to life in Shawshank State Penitentiary for the murders of his wife and her lover"
     },
  {
-        "id": 10,
+        "id": 25,
         "movie_name": "Gravity",
         "plot": "Gravity is a 2013 science fiction thriller film directed by Alfonso Cuarón, who also co-wrote, co-edited, and produced the film. It stars Sandra Bullock and George Clooney as American astronauts who are stranded in space after the mid-orbit destruction of their Space Shuttle, and attempt to return to Earth."
     },
 {
-        "id": 11,
+        "id": 26,
         "movie_name": "Radhe",
         "plot": "Salman bhai to save his GF, the city and most importantly, his self-respect."
     },
 {
-        "id": 11,
+        "id": 27,
+        "movie_name": "Up",
+        "plot": "An elderly man abducts a young overweight Asian boy to replace his dead wife."
+},{
+        "id": 28,
         "movie_name": "Chiku",
         "plot": "Shows the poverty of India ,also directed very badly "
     }
