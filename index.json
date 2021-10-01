@@ -219,9 +219,17 @@
 },
 
 {
+ "id":40,
+        "movie_name":"Rush Hour",
+        "plot":"Two cops Asian and Amerian do stuff that represents Racism "
+},
+
+
+{
      "id":41,
         "movie_name":"Beauty and the Beast",
         "plot":"Stockholm Syndrome Works"
+
 
 }
 ]
