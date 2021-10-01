@@ -219,9 +219,14 @@
 },
 
 {
- "id":40,
+ "id":41,
         "movie_name":"Rush Hour",
         "plot":"Two cops Asian and Amerian do stuff that represents Racism "
+},
+{
+ "id":42,
+        "movie_name":"Dhamaal",
+        "plot":"Four friends hardworkingly try to earn money"
 },
 
 
