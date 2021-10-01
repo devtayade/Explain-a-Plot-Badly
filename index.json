@@ -3,8 +3,6 @@
         "id": 1,
         "movie_name": "Harry Potter",
         "plot": "Abused orphan drops out of school to kill a man with no nose. Starts a war"
-        
-        
     },
     {
         "id":2,
@@ -173,8 +171,44 @@
         "plot":" It's Romantic but not a love"
     },
 {
+
         "id": 33,
         "movie_name": "The Revenant",
         "plot": "Leonardo Dicarpo wanders a frozen wasteland in search of an Oscar"
+},
+
+       
+
+{
+  "id": 34,
+        "movie_name":"The Human Centipede",
+        "plot":"Small town doctor brings 3 people closer together"
+    },
+{
+
+    "id":35,
+    "movie_name":"John Wick",
+    "plot":"A revenge of a man who lost his dog"
+},
+{
+    "id":36,
+    "movie_name":"Swiss Army Man",
+    "plot":"A survivalist who uses a half dead man as a swiss army knife "
+},
+{
+  "id": 37,
+        "movie_name":"Percy Jackson",
+        "plot":"A bastard child with reading disorder embarks on a quest to abuse his grandfather"
+    },
+{
+  "id": 38,
+        "movie_name":"Jolly LLB",
+        "plot":"The lawyers side of fictional story where Salman Khan actually goes to jail"
+    },
+{
+ "id":39,
+        "movie_name":"Dear Zindagi",
+        "plot":"Rich girl with shady past gets a new life by simping on a psychiatrist"
+
 }
 ]
