@@ -3,8 +3,6 @@
         "id": 1,
         "movie_name": "Harry Potter",
         "plot": "Abused orphan drops out of school to kill a man with no nose. Starts a war"
-        
-        
     },
     {
         "id":2,
@@ -193,11 +191,15 @@
     "movie_name":"Swiss Army Man",
     "plot":"A survivalist who uses a half dead man as a swiss army knife "
 },
-
 {
   "id": 37,
         "movie_name":"Percy Jackson",
         "plot":"A bastard child with reading disorder embarks on a quest to abuse his grandfather"
+    },
+{
+  "id": 38,
+        "movie_name":"Jolly LLB",
+        "plot":"The lawyers side of fictional story where Salman Khan actually goes to jail"
     }
 
 ]
