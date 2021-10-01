@@ -70,5 +70,10 @@
         "id":14,
         "movie_name":"The Matrix",
         "plot":"Depressed office worker joins a cult and destabilizes the government"
+    },
+     {
+        "id":15,
+        "movie_name":"kyu ki main jhoot nahi bolta",
+        "plot":"A man won’t stop being a compulsive liar until actual magic and an overly attached kid is involved. The man, as men do, gets away scot free of lying, cheating and money laundering because of the new found ability to speak the truth."
     }
 ]
