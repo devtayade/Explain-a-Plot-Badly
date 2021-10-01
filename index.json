@@ -210,5 +210,11 @@
         "movie_name":"Dear Zindagi",
         "plot":"Rich girl with shady past gets a new life by simping on a psychiatrist"
 
-}
+},
+{
+ "id":39,
+        "movie_name":"Tenet",
+        "plot":"A secret agent is given a single word as his weapon and sent to prevent the onset of World War III. He must travel through time and bend the laws of nature in order to be successful in his mission."
+
+},
 ]
