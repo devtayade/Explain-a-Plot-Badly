@@ -171,5 +171,10 @@
         "id":32,
         "movie_name":"The Meg",
         "plot":" It's Romantic but not a love"
-    }
+    },
+{
+        "id": 33,
+        "movie_name": "The Revenant",
+        "plot": "Leonardo Dicarpo wanders a frozen wasteland in search of an Oscar"
+}
 ]
