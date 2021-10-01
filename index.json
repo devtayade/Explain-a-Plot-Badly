@@ -183,6 +183,7 @@
         "plot":"Small town doctor brings 3 people closer together"
     },
 {
+
     "id":35,
     "movie_name":"John Wick",
     "plot":"A revenge of a man who lost his dog"
@@ -191,6 +192,12 @@
     "id":36,
     "movie_name":"Swiss Army Man",
     "plot":"A survivalist who uses a half dead man as a swiss army knife "
-}
+},
+
+{
+  "id": 37,
+        "movie_name":"Percy Jackson",
+        "plot":"A bastard child with reading disorder embarks on a quest to abuse his grandfather"
+    }
 
 ]
