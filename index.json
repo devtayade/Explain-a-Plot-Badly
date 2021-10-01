@@ -171,5 +171,10 @@
         "id":32,
         "movie_name":"The Meg",
         "plot":" It's Romantic but not a love"
+    },
+{
+        "id":33,
+        "movie_name":"Dear Zindagi",
+        "plot":"Rich girl with shady past gets a new life by simping on a psychiatrist"
     }
 ]
