@@ -171,10 +171,14 @@
         "plot":" It's Romantic but not a love"
     },
 {
-        "id":33,
-        "movie_name":"Dear Zindagi",
-        "plot":"Rich girl with shady past gets a new life by simping on a psychiatrist"
+
+        "id": 33,
+        "movie_name": "The Revenant",
+        "plot": "Leonardo Dicarpo wanders a frozen wasteland in search of an Oscar"
 },
+
+       
+
 {
   "id": 34,
         "movie_name":"The Human Centipede",
@@ -200,6 +204,11 @@
   "id": 38,
         "movie_name":"Jolly LLB",
         "plot":"The lawyers side of fictional story where Salman Khan actually goes to jail"
-    }
+    },
+{
+ "id":39,
+        "movie_name":"Dear Zindagi",
+        "plot":"Rich girl with shady past gets a new life by simping on a psychiatrist"
 
+}
 ]
