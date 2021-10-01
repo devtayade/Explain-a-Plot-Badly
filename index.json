@@ -181,5 +181,10 @@
   "id": 34,
         "movie_name":"The Human Centipede",
         "plot":"Small town doctor brings 3 people closer together"
+    },
+{
+  "id": 35,
+        "movie_name":"Percy Jackson",
+        "plot":"A bastard child with reading disorder embarks on a quest to abuse his grandfather"
     }
 ]
