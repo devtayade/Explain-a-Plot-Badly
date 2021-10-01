@@ -267,4 +267,19 @@
         "movie_name":"Traffic",
         "plot":"A traffic police man saves a life of child and creates history"
 }
+{  "id":44,
+        "movie_name":"Valentine's Day",
+        "plot":"If your date likes it, do not date that person again"
+
+}
+{  "id":45,
+        "movie_name":"Star Wars: Episode V",
+        "plot":"talking frog convinces son to kill his dad"
+
+}
+{  "id":46,
+        "movie_name":"Forrest Gump",
+        "plot":"drug addicted girl takes advantage of mentally challenge boy...for 3 years"
+
+}
 ]
