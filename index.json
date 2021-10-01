@@ -285,7 +285,15 @@
 {  "id":48,
         "movie_name":"Forrest Gump",
         "plot":"drug addicted girl takes advantage of mentally challenge boy...for 3 years"
+},
+
+{  "id":49,
+        "movie_name":"Snow White and the Seven Dwarfs",
+        "plot":"a guy thats alone in the forest kisses a dead body while other seven guys watch"
+
 }
+
+
 
 
 ]
