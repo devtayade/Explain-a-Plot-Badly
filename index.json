@@ -212,9 +212,16 @@
 
 },
 {
- "id":39,
+ "id":40,
         "movie_name":"Tenet",
         "plot":"A secret agent is given a single word as his weapon and sent to prevent the onset of World War III. He must travel through time and bend the laws of nature in order to be successful in his mission."
 
 },
+
+{
+     "id":41,
+        "movie_name":"Beauty and the Beast",
+        "plot":"Stockholm Syndrome Works"
+
+}
 ]
