@@ -260,13 +260,13 @@
 {  "id":43,
         "movie_name":"Lord of the Rings",
         "plot":"group spends 9 hours returning jewellery"
-
 },
 
 {  "id":44,
-        "movie_name":"Five feet apart",
-        "plot":"Couple in the movie maintain always 5 feet distance "
+        "movie_name":"coolie no 1",
+        "plot":"Actors cannot beat up the original however the make over has lavish exorbitant style which does not make the film like the old one\"
 },
+
 {
     "id":45,
         "movie_name":"Traffic",
@@ -290,15 +290,15 @@
 {  "id":49,
         "movie_name":"Snow White and the Seven Dwarfs",
         "plot":"a guy thats alone in the forest kisses a dead body while other seven guys watch"
-
+},
 },
 {  "id":50,
         "movie_name":"Home Alone II",
         "plot":"Donald Trump is a human being for 3 seconds"
+},
+{  "id":50,
+        "movie_name":"Forrest Gump",
+        "plot":"drug addicted girl takes advantage of mentally challenge boy...for 3 years"
 
 }
-
-
-
-
 ]
