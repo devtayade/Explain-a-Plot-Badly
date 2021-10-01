@@ -174,7 +174,12 @@
     },
 {
         "id":33,
+        "movie_name":"Dear Zindagi",
+        "plot":"Rich girl with shady past gets a new life by simping on a psychiatrist"
+},
+{
+  "id": 34,
         "movie_name":"The Human Centipede",
-        "plot":"Small town doctor brings 3 people closer together "
+        "plot":"Small town doctor brings 3 people closer together"
     }
 ]
