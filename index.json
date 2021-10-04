@@ -70,5 +70,10 @@
         "id":14,
         "movie_name":"The Matrix",
         "plot":"Depressed office worker joins a cult and destabilizes the government"
+    },
+    {
+        "id":15,
+        "movie_name":"Gumnammi",
+        "plot":"this movie is based on real life freedom fighter Subhash chandra bose"
     }
 ]
