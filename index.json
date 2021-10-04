@@ -1,79 +1,395 @@
 [
-    {
-        "id": 1,
+  {
+    "id": 1,
+    "movie_name": "Harry Potter",
+    "plot": "Abused orphan drops out of school to kill a man with no nose. Starts a war"
+  },
+  {
+    "id": 2,
+    "movie_name": "Twilight",
+    "plot": "A love triangle between an eighteen year old girl, a hundred year old guy and a dog"
+  },
+  {
+    "id": 3,
+    "movie_name": "The Maze",
+    "plot": "Perfectly pleasant society turns to chaos by the intoduction of a female"
+  },
+  {
+    "id": 4,
+    "movie_name": "The Matrix",
+    "plot": "Depressed office worker joins a cult and destabilizes the government"
+  },
+  {
+    "id": 5,
+    "movie_name": "Frozen",
+    "plot": "After the death of lead actress, a young socialite causes millions in property damage"
+  },
+  {
+    "id": 6,
+    "movie_name": "Star Wars - The Force Awakens",
+    "plot": "Emo teen can't live up to grandfathers legacy. Takes it out on dad"
+  },
+  {
+    "id": 7,
+    "movie_name": "James Bond",
+    "plot": "An Alcoholic orphan and his boss burn down his family home"
+  },
+  {
+    "id": 8,
+    "movie_name": "Avatar",
+    "plot": "Cultural appropriation in space"
+  },
+  {
+    "id": 9,
+    "movie_name": "Taken",
+    "plot": "A dad has to go pick up his daughter"
+  },
+  {
+    "id": 10,
+    "movie_name": "Spiderman",
+    "plot": "A Young man forcibly binds other men and photographs them for money"
+  },
+  {
+    "id": 11,
+    "movie_name": "Mean Girls",
+    "plot": "She started wearing less and going out more"
+  },
+  {
+    "id": 12,
+    "movie_name": "Aladdin",
+    "plot": "A beautiful princess gets catfished"
+  },
+  {
+    "id": 13,
+    "movie_name": "The Notebook",
+    "plot": "Man builds house, bangs average girl till ex comes back before her alzheimer's kicks in"
+  },
+  {
+    "id": 14,
+    "movie_name": "The Matrix",
+    "plot": "Depressed office worker joins a cult and destabilizes the government"
+  },
+  {
+    "id": 15,
+    "movie_name": "Hostel Daze",
+    "plot": "How Not to act in hostel."
+  },
+  {
+    "id": 16,
+    "movie_name": "The Bell Bottom",
+    "plot": "How not to highjack plane"
+  },
+  {
+    "id": 17,
+    "movie_name": "Your Name",
+    "plot": "Two humans who exchanged their bodies and fall in love"
+  },
+  {
+    "id": 18,
+    "movie_name": "Captain America: The Winter Soldier",
+    "plot": "Two 90yr old men fight when one of them can't remember who the other is."
+  },
+  {
+    "id": 19,
+    "movie_name": "Fight Club",
+    "plot": "A group of people start a club that they can’t talk about."
+  },
+  {
+    "id": 20,
+    "movie_name": "yeh jawani hai deewani",
+    "plot": "A semi orphan, smart wanderlust destroys life of a doctor and leaves her alone."
+  },
+  {
+    "id": 21,
+    "movie_name": "3 Idiots",
+    "plot": "In college, Farhan and Raju form a great bond with Rancho due to his positive and refreshing outlook to life. Years later, a bet gives them a chance to look for their long-lost friend whose existence seems rather elusive."
+  },
+  {
+    "id": 22,
+    "movie_name": "Gulaal",
+    "plot": "The film is set in present-day Rajasthan, a state in northwestern India. The plot is provided by student politics of a university and a fictitious secessionist movement consisting of former Rajput leaders who have become present-day elite"
+  },
+  {
+    "id": 23,
+    "movie_name": "Fukrey",
+    "plot": "Hunny, Choocha, Lali and Zafar want to make easy money and approach the notorious Bholi to invest in their plan. But when they lose her money, they must come up with a plan or face the consequences."
+  },
+  {
+    "id": 23,
+    "movie_name": "The attack of 26/11",
+    "plot": "The real story of ten terrorists, who sail to Mumbai and wage war on the populace for the next 72 hours."
+  },
+  {
+    "id": 24,
+    "movie_name": "The Shawshank Redemption",
+    "plot": "It tells the story of banker Andy Dufresne (Tim Robbins), who is sentenced to life in Shawshank State Penitentiary for the murders of his wife and her lover"
+  },
+  {
+    "id": 25,
+    "movie_name": "Gravity",
+    "plot": "Gravity is a 2013 science fiction thriller film directed by Alfonso Cuarón, who also co-wrote, co-edited, and produced the film. It stars Sandra Bullock and George Clooney as American astronauts who are stranded in space after the mid-orbit destruction of their Space Shuttle, and attempt to return to Earth."
+  },
+  {
+    "id": 26,
+    "movie_name": "Interstellar",
+    "plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans."
+  },
+  {
+    "id": 27,
+    "movie_name": "Radhe",
+    "plot": "Salman bhai to save his GF, the city and most importantly, his self-respect."
+  },
+  {
+    "id": 28,
+    "movie_name": "Zindagi Na Milegi Dobara",
+    "plot": "Three best friends together breaks a marriage of one of them at the last day of trip."
+  },
+  {
+    "id": 29,
+    "movie_name": "Up",
+    "plot": "An elderly man abducts a young overweight Asian boy to replace his dead wife."
+  },
+  {
+    "id": 30,
+    "movie_name": "Chiku",
+    "plot": "Shows the poverty of India ,also directed very badly "
+  },
+  {
+    "id": 31,
+    "movie_name": "Unbreakable",
+    "plot": "David is indeed a superhero, whose powers include extreme strength and the ability to see the crimes people have permitted just by touching them. But that isn't the twist. The twist comes right at the end of the film when David shakes Elijah's hand — and realises he was the one behind the train crash all along."
+  },
+  {
+    "id": 32,
+    "movie_name": "The Meg",
+    "plot": " It's Romantic but not a love"
+  },
+  {
+    "id": 33,
+    "movie_name": "The Revenant",
+    "plot": "Leonardo Dicarpo wanders a frozen wasteland in search of an Oscar"
+  },
+  {
+    "id": 34,
+    "movie_name": "The Human Centipede",
+    "plot": "Small town doctor brings 3 people closer together"
+  },
+  {
+    "id": 35,
+    "movie_name": "John Wick",
+    "plot": "A revenge of a man who lost his dog"
+  },
+  {
+    "id": 36,
+    "movie_name": "Swiss Army Man",
+    "plot": "A survivalist who uses a half dead man as a swiss army knife "
+  },
+  {
+    "id": 37,
+    "movie_name": "Percy Jackson",
+    "plot": "A bastard child with reading disorder embarks on a quest to abuse his grandfather"
+  },
+  {
+    "id": 38,
+    "movie_name": "Jolly LLB",
+    "plot": "The lawyers side of fictional story where Salman Khan actually goes to jail"
+  },
+  {
+    "id": 39,
+    "movie_name": "Dear Zindagi",
+    "plot": "Rich girl with shady past gets a new life by simping on a psychiatrist"
+  },
+  {
+    "id": 40,
+    "movie_name": "Tenet",
+    "plot": "A secret agent is given a single word as his weapon and sent to prevent the onset of World War III. He must travel through time and bend the laws of nature in order to be successful in his mission."
+  },
+  {
+    "id": 41,
+    "movie_name": "Rush Hour",
+    "plot": "Two cops Asian and Amerian do stuff that represents Racism "
+  },
+  {
+    "id": 42,
+    "movie_name": "Dhamaal",
+    "plot": "Four friends hardworkingly try to earn money"
+  },
+  {
+    "id": 41,
+    "movie_name": "Beauty and the Beast",
+    "plot": "Stockholm Syndrome Works"
+  },
+  {
+    "id": 42,
+    "movie_name": "Haseen Dilruba",
+    "plot": "Under investigation as a suspect in her husband's murder, a wife reveals details of their marriage"
+  },
+  {
+    "id": 43,
+    "movie_name": "Ae Dil he Mushkil",
+    "plot": "A rich boy with mommy issues gets obssessed with a girl who has frienzoned him for life"
+  },
+  {
+    "id": 42,
+    "movie_name": "Harry potter and the philosophers's stone",
+    "plot": "3 students keeps getting points while doing shit things! "
+  },
+  {
+    "id": 43,
+    "movie_name": "Lord of the Rings",
+    "plot": "group spends 9 hours returning jewellery"
+  },
+  {
+    "id": 44,
+    "movie_name": "coolie no 1",
+    "plot": "Actors cannot beat up the original however the make over has lavish exorbitant style which does not make the film like the old one"
+  },
+  {
+    "id": 45,
+    "movie_name": "Traffic",
+    "plot": "A traffic police man saves a life of child and creates history"
+  },
+  {
+    "id": 46,
+    "movie_name": "Valentine's Day",
+    "plot": "If your date likes it, do not date that person again"
+  },
+  {
+    "id": 47,
+    "movie_name": "Star Wars: Episode V",
+    "plot": "talking frog convinces son to kill his dad"
+  },
+  {
+    "id": 48,
+    "movie_name": "Forrest Gump",
+    "plot": "drug addicted girl takes advantage of mentally challenge boy...for 3 years"
+  },
+  {
+    "id": 49,
+    "movie_name": "Snow White and the Seven Dwarfs",
+    "plot": "a guy thats alone in the forest kisses a dead body while other seven guys watch"
+  },
+  {
+    "id": 50,
+    "movie_name": "Home Alone II",
+    "plot": "Donald Trump is a human being for 3 seconds"
+  },
+  {
+    "id": 50,
+    "movie_name": "Forrest Gump",
+    "plot": "drug addicted girl takes advantage of mentally challenge boy...for 3 years"
+  },
+  {
+    "id": 51,
+    "movie_name": "Cinderella",
+    "plot": "A host is very persistent in returning lost property to his guests."
+  },
+  {
+    "id": 52,
+    "movie_name": "Shrek",
+    "plot": "Woman turns into a monster to avoid bestiality."
+  },
+  {
+    "id": 53,
+    "movie_name": "Whiplash",
+    "plot": "Aspiring musician just cannot meet his instructor's tempo."
+  },
+  {
+    "id": 54,
+    "movie_name": "Taxi Driver",
+    "plot": "New York City taxi driver is not sure if he's being talked to."
+  },
+  {
+    "id": 55,
+    "movie_name": "Prisoners",
+    "plot": "Hugh Jackman relentlessly beats up Paul Dano."
+  },
+  {
+    "id": 56,
+    "movie_name": "Okja",
+    "plot": "Young girl travels from Seoul to New York to save her pig"
+  },
+  {
+    "id": 57,
+    "movie_name": "Full Metal Jacket",
+    "plot": "Drill sergeant tells a private that he's so ugly he could be a modern art masterpiece."
+  },
+      {
+        "id": 58,
         "movie_name": "Harry Potter",
         "plot": "Abused orphan drops out of school to kill a man with no nose. Starts a war"
         
         
     },
     {
-        "id":2,
+        "id":59,
         "movie_name":"Twilight",
         "plot":"A love triangle between an eighteen year old girl, a hundred year old guy and a dog"
     },
     {
-        "id":3,
+        "id":60,
         "movie_name":"The Maze",
         "plot":"Perfectly pleasant society turns to chaos by the intoduction of a female"
     },
     {
-        "id":4,
+        "id":61,
         "movie_name":"The Matrix",
         "plot":"Depressed office worker joins a cult and destabilizes the government"
     },
     {
-        "id":5,
+        "id":62,
         "movie_name":"Frozen",
         "plot":"After the death of lead actress, a young socialite causes millions in property damage"
     },
     {
-        "id":6,
+        "id":63,
         "movie_name":"Star Wars - The Force Awakens",
         "plot":"Emo teen can't live up to grandfathers legacy. Takes it out on dad"
     },
     {
-        "id":7,
+        "id":64,
         "movie_name":"James Bond",
         "plot":"An Alcoholic orphan and his boss burn down his family home"
     },
     {
-        "id":8,
+        "id":65,
         "movie_name":"Avatar",
         "plot":"Cultural appropriation in space"
     },
     {
-        "id":9,
+        "id":66,
         "movie_name":"Taken",
         "plot":"A dad has to go pick up his daughter"
     },
     {
-        "id":10,
+        "id":67,
         "movie_name":"Spiderman",
         "plot":"A Young man forcibly binds other men and photographs them for money"
     },
     {
-        "id":11,
+        "id":68,
         "movie_name":"Mean Girls",
         "plot":"She started wearing less and going out more"
     },
     {
-        "id":12,
+        "id":69,
         "movie_name":"Aladdin",
         "plot":"A beautiful princess gets catfished"
     },
     {
-        "id":13,
+        "id":70,
         "movie_name":"The Notebook",
         "plot":"Man builds house, bangs average girl till ex comes back before her alzheimer's kicks in"
     },
     {
-        "id":14,
+        "id":71,
         "movie_name":"The Matrix",
         "plot":"Depressed office worker joins a cult and destabilizes the government"
     },
     {
-        "id":15,
+        "id":72,
         "movie_name":"Gumnammi",
         "plot":"this movie is based on real life freedom fighter Subhash chandra bose"
     }
+
 ]
